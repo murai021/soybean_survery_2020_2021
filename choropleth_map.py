@@ -1,5 +1,8 @@
 ###
 Here you need a df with a 'State' column with average protein values of each state on the 'Protein' column. Color scale is customizable. 
+You would need to have had the df created already with pandas. 
+
+df = dataframe
 ### 
 
 import plotly.express as px
